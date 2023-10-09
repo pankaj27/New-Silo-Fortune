@@ -1,0 +1,4 @@
+[29-Sep-2023 15:49:39 Asia/Calcutta] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Web\AnimalTradingController::searchByCategory() in /home/rakshakc/websites/silofortune.in/app/Http/Controllers/Web/AnimalTradingController.php on line 67
+[29-Sep-2023 15:50:28 Asia/Calcutta] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Web\AnimalTradingController::searchByCategory() in /home/rakshakc/websites/silofortune.in/app/Http/Controllers/Web/AnimalTradingController.php on line 67
+[05-Oct-2023 22:54:42 Asia/Calcutta] PHP Fatal error:  Cannot use empty array elements in arrays in /home/rakshakc/websites/silofortune.in/app/Http/Controllers/Admin/TestimonialController.php on line 59
+[05-Oct-2023 23:01:26 Asia/Calcutta] PHP Fatal error:  Cannot use Brian2694\Toastr\Facades\Toastr as Toastr because the name is already in use in /home/rakshakc/websites/silofortune.in/app/Http/Controllers/Admin/TestimonialController.php on line 15
